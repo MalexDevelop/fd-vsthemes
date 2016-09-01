@@ -17,7 +17,7 @@ VS2005AutoHideStrip.TabUnderlineColor=#2D2D30
 DockPanel.ShowAutoHideContentOn=Click
 
  OutputPanel.InfoColor=#ffffff
- OutputPanel.DebugColor=#000000
+ OutputPanel.DebugColor=#0000ff
  OutputPanel.WarningColor=#ffa500
  OutputPanel.ErrorColor=#ffffff
  OutputPanel.FatalColor=#ff00ff
